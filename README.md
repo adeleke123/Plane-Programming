@@ -14,4 +14,4 @@ The player can control the plane using the WA keys or the UP/DOWN arrow keys on 
 
 
 ### GamePlay Video
-https://user-images.githubusercontent.com/51156057/188017843-c22b7dde-7dad-486a-a028-2964e9441803.mp4
+https://user-images.githubusercontent.com/51156057/188105442-3d15ef00-16d6-44e5-870e-8316497445a1.mp4
